@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>real</title>
+
+    <style>
+        body{background-color: darkgoldenrod;}
+        body{text-align: center;}
+        </style>
+</head>
+
+<body>
+   
+    <h1>Lebron appreciation website!</h1>
+<img src="c:\Users\pc\Downloads\LeScream.jpg" alt="lescream" style="width: 20%;">
+<a href="bron.html"> <br> bronjameees</a>
+    
+</body>
+</html>
